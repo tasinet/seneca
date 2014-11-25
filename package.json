@@ -23,12 +23,13 @@
     "David Mark Clements",
     "Nicolas Herment",
     "Maciej Małecki (http://mmalecki.com)",
-    "Jake Pruitt", 
+    "Jake Pruitt",
     "Marian Radulescu",
     "Alexandru Mircea"
   ],
   "dependencies": {
     "async": "~0.9.0",
+    "bluebird": "^2.3.11",
     "eraro": "~0.1.6",
     "gex": "~0.1.3",
     "jsonic": "~0.1.1",
